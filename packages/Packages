@@ -1,0 +1,17 @@
+Lost field SourceName, routerpal
+Lost field SourceDateEpoch, 1686910314
+Lost field Installed-Size, 404170
+Package: routerpal
+Version: 1.0-1
+Depends: libc, luci-base, luci-compat, curl, luci-lib-jsonc, lua, lua, luci-compat, curl, luci-lib-jsonc, python3-speedtest-cli
+Section: utils
+Architecture: aarch64_cortex-a53
+Maintainer: Byron Johnson byron@johnson-creative.com
+MD5Sum: bb5d6902486d671c8e6420daad95e13e
+Size: 404077
+Filename: routerpal_1.0-1_aarch64_cortex-a53.ipk
+Source: package/routerpal
+Description: A LuCI-based interface for managing RouterPal features
+License: Apache-2.0
+
+
